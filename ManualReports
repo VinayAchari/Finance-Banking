@@ -1,3 +1,4 @@
 102 Total TestCase 
 Pass TC 80
-fail TC 22
+fail TC 13
+skiped TC 9
